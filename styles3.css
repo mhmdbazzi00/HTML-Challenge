@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(20, 26, 34);
+    color: white;
+
+}
+.topnav{
+    background-color: rgb(32, 32, 48);
+    display: flex;
+    justify-content:space-around;
+    padding:  1%;
+    width: 70%;
+    margin-left: 26em;
+    
+
+    
+
+}
+
+.topnav a{
+    text-decoration: none;
+    color: white;
+
+
+
+}
+ul{
+    line-height: 30px;
+}
+.move{
+    margin-left: 30px;
+}
+.para3{
+    line-height: 30px;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: -100px;
+    
+    
+    
+}
+.other{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 65px;
+    
+    
+
+}
+.sixth{
+    margin-left: 30px;
+}
+.read-more{
+    background-color: lightblue;
+    padding: 10px;
+
+}
+.gallery{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+    
+}
+.up{
+    height: 20px;
+    
+}
+hr{
+    opacity: 25%;
+}
+.shift{
+    line-height: 25px;
+}
+.img img{
+    width: 72%;
+    height:300px;
+    position: relative;
+    margin-left: 26em;
+
+    
+}
+.line{
+    line-height: 28px;
+}
+.do{
+    margin-left: 30px;
+}
+form{
+    display: flex;
+    justify-content:space-evenly
+}
+.submit{
+    width: 9%;
+}
+
